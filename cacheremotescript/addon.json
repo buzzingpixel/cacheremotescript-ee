@@ -1,0 +1,13 @@
+{
+	"author": "TJ Draper",
+	"authorUrl": "https://buzzingpixel.com",
+	"bugs": "https://github.com/buzzingpixel/readfilecontents-ee/issues",
+	"description": "Cache Remote Script",
+	"docsUrl": "",
+	"homepage": "",
+	"label": "Cache Remote Script",
+	"name": "cacheremotescript",
+	"namespace": "BuzzingPixel\\CacheRemoteScript",
+	"settingsExist": false,
+	"version": "0.0.1"
+}
